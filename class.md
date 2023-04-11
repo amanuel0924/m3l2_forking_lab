@@ -1,3 +1,2 @@
 amanuel
-ethiopia
 version control
